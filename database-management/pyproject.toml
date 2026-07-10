@@ -1,0 +1,18 @@
+[project]
+name = "database-management"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "alembic>=1.18.5",
+    "sqlmodel>=0.0.39",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.15.21",
+]
+
+[tool.ruff.lint]
+select = ["I"]

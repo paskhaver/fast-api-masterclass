@@ -1,0 +1,23 @@
+[project]
+name = "rent-a-room"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "aiosqlite>=0.22.1",
+    "alembic>=1.18.5",
+    "fastapi[standard]>=0.139.0",
+    "greenlet>=3.5.3",
+    "pydantic>=2.13.4",
+    "pydantic-extra-types[phonenumbers]>=2.11.1",
+    "sqlmodel>=0.0.39",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.15.21",
+]
+
+[tool.ruff.lint]
+select = ["I"]
