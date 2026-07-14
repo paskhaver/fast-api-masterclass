@@ -1,7 +1,7 @@
 [project]
 name = "authentication"
 version = "0.1.0"
-description = "Rent-a-Room application for guests to book rooms"
+description = "Authentication application (sections 12-13)"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [

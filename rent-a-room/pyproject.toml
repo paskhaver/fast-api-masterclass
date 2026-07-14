@@ -1,7 +1,7 @@
 [project]
 name = "rent-a-room"
 version = "0.1.0"
-description = "Add your description here"
+description = "Rent-a-Room application for guests to book rooms (sections 1-10)"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [

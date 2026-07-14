@@ -1,7 +1,7 @@
 [project]
 name = "database-management"
 version = "0.1.0"
-description = "Add your description here"
+description = "Database management application (section 11)"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
