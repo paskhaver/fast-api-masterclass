@@ -28,9 +28,9 @@ This course uses the [(VSCode)](https://code.visualstudio.com/) editor and multi
 
 FastAPI uses the JSON text format to send and receive data.
 
-I recommend installing the Chrome `JSON Viewer` extension (or a similar tool) to format your JSON. See this page:
+I recommend installing the Chrome `JSONVue` extension (or a similar tool) to format your JSON. See this page:
 
-https://chromewebstore.google.com/detail/json-viewer/aimiinbnnkboelefkjlenlgimcabobli?pli=1
+https://chromewebstore.google.com/detail/jsonvue/chklaanhfefbnpoihckbnefhakgolnmc?hl=en
 
 Without the extension, the browser will render raw JSON like this:
 
