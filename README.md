@@ -16,13 +16,17 @@ On this GitHub page, click the green `Code` button, then select "Download ZIP". 
 
 ## Course Prerequisites
 
-- Basic/intermediate knowledge of Python (functions, classes/objects, data structures like list/dictionaries, etc.)
-- Basic knowledge of Terminal (navigation)
-- Basic experience with coding text editor
+I recommend having a solid understanding of the following technical topics before progressing through the course:
 
-This course assumes no previous experience with backend development. Although we cover FastAPI from scratch, I do recommend completing a Python course before starting on this one.
+- Basic/intermediate Python (functions, classes/objects, data structures like list/dictionaries, etc.)
+- Terminal/command-line (navigation)
+- Git
 
-This course uses the [(VSCode)](https://code.visualstudio.com/) editor and multiple VSCode extensions. You are welcome to utilize another editor (i.e. PyCharm) if you prefer. The code will remain the same, but you'll have to figure out how to achieve similar editor actions like debugging in your editor.
+Don't worry about checking every item on the checklist. Developers learn topics in different orders. With that said, if you've never written a Python program before, it's best to complete a dedicated Python course first before progressing through this one.
+
+This course assumes no previous experience with backend development.
+
+This course uses the [VSCode](https://code.visualstudio.com/) editor and multiple VSCode extensions. You are welcome to utilize another editor (i.e. PyCharm) if you prefer. The code will remain the same, but you'll have to figure out how to achieve similar editor actions like debugging in your editor.
 
 ## Browser Setup
 
